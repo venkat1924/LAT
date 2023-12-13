@@ -1,3 +1,9 @@
+/* Write an algorithm to check if an input character string is of the form 'x C y' where x is a string and y is the reverse of x. 
+   For example,
+	      if x='ABABBA' and y='ABBABA',
+		the algorithm returns True.     */
+
+
 #include <stdio.h>
 #include <string.h>
 
